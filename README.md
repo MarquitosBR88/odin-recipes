@@ -1,1 +1,1 @@
-Hello, Im doing this current project about recipes, its a very basic project because im started to code recently, so I hope you understand if you see some mistakes. Im brazilian and because of that maybe this readme has some grammar mistakes too.
+Hello, Im doing this current project about recipes, its a very basic project because I started to code recently, so I hope you understand if you see some mistakes. Im brazilian and because of that maybe this readme has some grammar mistakes too.
