@@ -8,12 +8,41 @@ h1 {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    color: black;
+    color: rgb(7, 116, 4);
     font-family: Garamond, serif;
 }
 
+h2 {
+    text-align: center;
+    color: black;
+} 
+
+.listIngredients {
+    display: inline-block;
+    border: 5px dotted rgb(13, 68, 219);
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    width: 500px;
+    height: 450px fit-content;
+    margin-left: 15em;
+    margin-top: 1em;
+}
+
+.steps {
+    display: inline-block;
+    border: 5px dotted rgb(13, 68, 219);
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    width: 500px;
+    height: 450px fit-content;
+    margin-left: 25em;
+    margin-top: 1em;
+}
+
 ul {
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
 img {
@@ -21,4 +50,11 @@ img {
     width: 300px;
     height: 100%;
     border-radius: 10px;
+}
+
+p {
+    display: block;
+    width: 550px;
+    text-align: center;
+    margin: auto;
 }
